@@ -14,36 +14,6 @@ This folder is a collection of code snippets, mini-projects, and experiments wri
 
 ---
 
-## 🗂️ Structure
-
-Each language has its own subfolder:
-
-/practice
-├── python/
-├── javascript/
-├── java/
-├── c/
-├── cpp/
-├── ruby/
-├── go/
-├── rust/
-├── typescript/
-├── kotlin/
-├── swift/
-├── php/
-├── bash/
-└── ...more
-
-
-Inside each folder, you'll typically find:
-
-- `README.md`: Notes and references related to the language
-- `examples/`: Small example scripts or functions
-- `projects/`: Mini-projects or problem-solving tasks
-- `notes.md`: Optional learning notes or syntax reminders
-
----
-
 ## 📌 Notes
 
 - This is not a production-grade repo; it's meant for experimentation and personal learning.
